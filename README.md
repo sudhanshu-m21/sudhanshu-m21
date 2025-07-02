@@ -35,9 +35,9 @@ I'm a passionate Computer Science & Engineering student, focused on building imp
 
 ## 🏆 Coding Profiles
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20(1923)-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sudhanshu_m_21/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20(1389)-orange?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sudhanshu_21)
 [![CodeChef](https://img.shields.io/badge/CodeChef-3★%20(1704)-brown?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/sudhanshu_m_21)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20(1923)-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sudhanshu_m_21/)
 
 ---
 
